@@ -3,10 +3,11 @@
 <h3 align="center">I am a self-motivated individual with a dynamic personality who has quick learning ability and passion for creating new things.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman4312&label=Profile%20views&color=0e75b6&style=flat" alt="aman4312" /> </p>
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently learning **Backend Technology like NodeJs, Express JS**
 
 - 📫 How to reach me **srivastavaaman085@gmail.com**
 
+[![trophy](https://github-profile-trophy.vercel.app/?https://github.com/aman4312=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman78857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman78857" height="30" width="40" /></a>
