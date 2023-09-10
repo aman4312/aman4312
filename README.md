@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **srivastavaaman085@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?https://github.com/aman4312=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/https://github.com/aman4312=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman78857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman78857" height="30" width="40" /></a>
